@@ -1,0 +1,5 @@
+*.txt
+*.log
+/dirname /dir
+:qw
+file1
